@@ -2,6 +2,11 @@
 
 The Chroma Palette is a Python module designed to provide comprehensive text styling capabilities for terminal applications. It utilizes ANSI escape codes to apply various styles, colors, decorations, alignments, and shadow effects to text output, enhancing the visual presentation of terminal-based interfaces.
 
+## Installation
+
+Install the librery by using `pip install chroma_palette` .
+
+
 ## Features
 
 ### Text Styles
@@ -130,11 +135,6 @@ Display an interactive help menu with detailed information on available features
   chroma_palette.help()
   ```
 
-## Installation
-
-1. Clone the repository or download the `chroma_palette.py` file.
-
-2. Place the `chroma_palette.py` file in your project directory.
 
 ## Documentation
 

@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.1'
+VERSION = '1.0.0'
 DESCRIPTION = 'Chroma Palette - Text Styling Library'
 
 # Setting up
@@ -18,7 +18,7 @@ setup(
     install_requires=[],
     keywords=['python', 'terminal', 'color', 'palette', 'color palette', 'termina palette', 'terminal'],
     classifiers=[
-        "Development Status :: 1 - Release",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
