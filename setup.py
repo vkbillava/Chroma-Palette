@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '1.0.0'
+VERSION = '1.0.3'
 DESCRIPTION = 'Chroma Palette - Text Styling Library'
 
 # Setting up
