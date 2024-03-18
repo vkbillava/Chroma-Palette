@@ -1,19 +1,3 @@
-Metadata-Version: 2.1
-Name: chroma_palette
-Version: 1.0.4
-Summary: Chroma Palette - Text Styling Library
-Author: Vinay Kumar (vk_billava)
-Author-email: <vinaykumarbillava@gmail.com>
-Keywords: python,terminal,color,palette,color palette,termina palette,terminal,chroma,chroma palette
-Classifier: Development Status :: 4 - Beta
-Classifier: Intended Audience :: Developers
-Classifier: Programming Language :: Python :: 3
-Classifier: Operating System :: Unix
-Classifier: Operating System :: MacOS :: MacOS X
-Classifier: Operating System :: Microsoft :: Windows
-Description-Content-Type: text/markdown
-License-File: LICENSE
-
 # Chroma Palette - Text Styling Library
 
 The Chroma Palette is a Python module designed to provide comprehensive text styling capabilities for terminal applications. It utilizes ANSI escape codes to apply various styles, colors, decorations, alignments, and shadow effects to text output, enhancing the visual presentation of terminal-based interfaces.

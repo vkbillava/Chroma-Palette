@@ -29,6 +29,7 @@ class TextColor:
     LIGHT_MAGENTA = '\033[95m'
     LIGHT_CYAN = '\033[96m'
     WHITE = '\033[97m'
+    PINK = '\033[38;2;255;192;203m'
 
 class BackgroundColor:
   
@@ -51,6 +52,7 @@ class BackgroundColor:
     LIGHT_MAGENTA = '\033[105m'
     LIGHT_CYAN = '\033[106m'
     WHITE = '\033[107m'
+    PINK = '\033[48;2;255;192;203m'
 
 class TextDecoration:
 
@@ -122,11 +124,11 @@ def help():
             print("  - STRIKETHROUGH: Draws a line through the text.")
         elif choice == '2':
             print("\nText Colors:")
-            print("  - BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, LIGHT_GRAY, DARK_GRAY,")
+            print("  - BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, PINK, LIGHT_GRAY, DARK_GRAY,")
             print("    LIGHT_RED, LIGHT_GREEN, LIGHT_YELLOW, LIGHT_BLUE, LIGHT_MAGENTA, LIGHT_CYAN, WHITE")
         elif choice == '3':
             print("\nBackground Colors:")
-            print("  - BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, LIGHT_GRAY, DARK_GRAY,")
+            print("  - BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, PINK, LIGHT_GRAY, DARK_GRAY,")
             print("    LIGHT_RED, LIGHT_GREEN, LIGHT_YELLOW, LIGHT_BLUE, LIGHT_MAGENTA, LIGHT_CYAN, WHITE")
         elif choice == '4':
             print("\nText Decorations:")

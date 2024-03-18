@@ -9,7 +9,7 @@ DESCRIPTION = 'Chroma Palette - Text Styling Library'
 setup(
     name="chroma_palette",
     version=VERSION,
-    author="VK_Billava (Vinay Kumar)",
+    author="Vinay Kumar (vk_billava)",
     author_email="<vinaykumarbillava@gmail.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
