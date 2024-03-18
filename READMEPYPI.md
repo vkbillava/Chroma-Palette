@@ -138,15 +138,6 @@ Display an interactive help menu with detailed information on available features
   help()
   ```
 
-
-## Documentation
-
-For detailed documentation including function signatures, parameters, and usage examples, refer to the code comments within the `py` file.
-
-## Contributing
-
-Contributions to the Chroma Palette are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
